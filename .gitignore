@@ -1,0 +1,29 @@
+# Scan results (may contain personal data) - NEVER commit
+output/
+*.json.bak
+reports/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
