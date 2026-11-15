@@ -184,3 +184,29 @@ Run the tests: `python -m unittest discover -s tests -v`
 ## License
 
 [MIT](LICENSE)
+
+## Screenshots
+
+**Legal notice and authorisation prompt**
+
+![Legal banner](docs/banner.png)
+
+**Dry-run results (synthetic data)**
+
+![Dry-run results](docs/dryrun.png)
+
+**HTML report**
+
+![HTML report](docs/report.png)
+![HTML report, continued](docs/report2.png)
+
+## Authors
+
+| Name | Role |
+|---|(Lead Developer)Core Footprinting Engine|
+|---|(Security & UX)Ethical Guardrails & CLI|
+|---|(QA & Report Lead)Testing, PDF Report & Demo|
+| MUHAMMAD ZIEKRY SYAHMI BIN MOHD HAMIDI | Repo Manager (Git lifecycle and documentation) |
+| Teammate 2 | (Lead Developer)Core Footprinting Engine |
+| Teammate 3 | (Security & UX)Ethical Guardrails & CLI |
+| Teammate 4 | (QA & Report Lead)Testing, PDF Report & Demo |
