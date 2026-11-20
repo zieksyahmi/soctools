@@ -206,5 +206,5 @@ Run the tests: `python -m unittest discover -s tests -v`
 |---|---|
 | NUR MUHAMMMAD AWAL BIN ZAHAR | Lead Developer (Core Footprinting Engine) |
 | MUHAMMAD ZIEKRY SYAHMI BIN MOHD HAMIDI | Repo Manager (Git lifecycle and documentation) |
-| Teammate 3 | Security & UX (Ethical Guardrails & CLI) |
-| Teammate 4 | QA & Report Lead (Testing, PDF Report & Demo) |
+| AFIQ HAFIZI BIN RAZISZI| Security & UX (Ethical Guardrails & CLI) |
+| SITI ZULAIKHA BINTI MOHD ASRI | QA & Report Lead (Testing, PDF Report & Demo) |
