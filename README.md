@@ -203,10 +203,8 @@ Run the tests: `python -m unittest discover -s tests -v`
 ## Authors
 
 | Name | Role |
-|---|(Lead Developer)Core Footprinting Engine|
-|---|(Security & UX)Ethical Guardrails & CLI|
-|---|(QA & Report Lead)Testing, PDF Report & Demo|
+|---|---|
+| NUR MUHAMMAD AWAL BIN ZAHAR | Lead Developer (Core Footprinting Engine) |
 | MUHAMMAD ZIEKRY SYAHMI BIN MOHD HAMIDI | Repo Manager (Git lifecycle and documentation) |
-| Teammate 2 | (Lead Developer)Core Footprinting Engine |
-| Teammate 3 | (Security & UX)Ethical Guardrails & CLI |
-| Teammate 4 | (QA & Report Lead)Testing, PDF Report & Demo |
+| Teammate 3 | Security & UX (Ethical Guardrails & CLI) |
+| Teammate 4 | QA & Report Lead (Testing, PDF Report & Demo) |
